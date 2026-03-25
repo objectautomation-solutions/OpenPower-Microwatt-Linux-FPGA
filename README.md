@@ -1,4 +1,4 @@
-# Edge-Based GenAI Chat Assistant (Offline LLM)
+# Edge-Based GenAI Chat Assistant (Offline LLM) Using OpenPower Microwatt Linux FPGA
 
 ## Overview
 This project implements an **Edge AI Chat Assistant** where an FPGA device communicates with a locally hosted Large Language Model (LLM) using Ollama.
