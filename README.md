@@ -2,7 +2,8 @@
 
 ## Overview
 This project implements an **Edge AI Chat Assistant** where an FPGA device communicates with a locally hosted Large Language Model (LLM) using Ollama.
-![alt text](image-1.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8428a280-9a95-4f81-881a-921e1c1afe0e" />
+
 The system works completely offline and enables real-time AI responses without relying on cloud services.
 
 ---
@@ -18,7 +19,8 @@ The system works completely offline and enables real-time AI responses without r
 
 ## Architecture
 
-![alt text](image.png)
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/34c21fe1-4ae3-4a24-84a1-070d0ccbf6cb" />
+
 
 ---
 
